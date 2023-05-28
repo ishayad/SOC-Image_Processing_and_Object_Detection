@@ -5,4 +5,4 @@ Learnt basics of python: Input/output, type conversion, strings, operations and 
 
 Week 2 :
 Learnt numpy and openCV:
-Basics of Numpy, operations on array, and string. 
+Basics of Numpy, operations on array(Slicing, joining, splitting and resizing), and string using numpy.  
